@@ -10,10 +10,10 @@ $ sudo dnf install -y jq zip
 
 ## Get sb3 file
 ```
-$ ./getProjectByURL.sh [PROJECT_ID]
-$ ./getProjectByURL.sh 327513248
+$ ./getsb3.sh [PROJECT_ID]
+$ ./getsb3.sh 327513248
 $ ls
-327513248/  327513248.sb3  getProjectByURL.sh
+327513248/  327513248.sb3  getProjectByURL.sh getsb3.sh
 ```
 
 ## Author
